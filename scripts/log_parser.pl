@@ -14,15 +14,12 @@ GetOptions('f=s' => \$filename);
 
 print $filename . "\n";
 
-if( $filename )
-{
+if( $filename ) {
 	my $fh = new IO::File $filename, "r";
-	if( defined $fh )
-	{
+	if( defined $fh ) {
 		@tmp = <$fh>;
 	}
-	else
-	{
+	else {
 		die "did not find $filename\n";
 	}
 }
@@ -35,14 +32,27 @@ foreach my $line (@tmp)
 	if( $line =~ m/DoS Attack/ ) {
 		$ii++;
 		if( $line =~ m/RST Scan/ ) {
-			if( $line =~ /(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\, port (\d{1,5})/ ) {
-				$ipaddr = $1;
-				$port = $2;
-				$rst_scan{$ipaddr}{$port}++;
-			}
-			printf("%6d) %s\n", $ii, $line);
-			printf("\tIP %s, port %d\n", $ipaddr, $port);
+			parse_log_string($line, \%rst_scan);
+			#if( $line =~ /(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\, port (\d{1,5})/ ) {
+			#	$ipaddr = $1;
+			#	$port = $2;
+			#	$rst_scan{$ipaddr}{$port}++;
+			#}
+			#printf("%6d) %s\n", $ii, $line);
+			#printf("\tIP %s, port %d\n", $ipaddr, $port);
 
+		}
+		elsif( $line =~ m/SYN\/ACK Scan/ ) {
+			parse_log_string( $line, \%synack_scan );
+		}
+		elsif( $line =~ m/ACK Scan/ ) {
+			parse_log_string( $line, \%ack_scan );
+		}
+		elsif( $line =~ m/TCP\/UDP Chargen/ ) {
+			parse_log_string( $line, \%tcpudp_chargen );
+		}
+		else {
+			printf("LOG ENTRY NOT SUPPORTED\n\t%s\n", $line);
 		}
 	}
 	elsif( $line =~ /DHCP IP/ ) {
@@ -65,14 +75,44 @@ foreach my $line (@tmp)
 	}
 }
 
-my @ips = keys %rst_scan;
-printf("RST Scan Hits from IP:Port...\n");
+my $jj = 1;
+printf("RST Scan Hits from IP:Port...(%d hosts)\n", scalar(keys %rst_scan));
 printf("---------------------------------------\n");
 foreach my $ip (keys %rst_scan) {
     while (my ($key, $value) = each %{ $rst_scan{$ip} } ) {
-        print "$ip:$key = $value \n";
+        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
     }
 }
+
+printf("\n\nSYN/ACK Scan Hits from IP:Port...(%d hosts)\n", scalar(keys %synack_scan));
+printf("---------------------------------------\n");
+$jj = 1;
+foreach my $ip (keys %synack_scan) {
+    while (my ($key, $value) = each %{ $synack_scan{$ip} } ) {
+        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
+    }
+}
+
+
+printf("\n\nACK Scan Hits from IP:Port...(%d hosts)\n", scalar(keys %ack_scan));
+printf("---------------------------------------\n");
+$jj = 1;
+foreach my $ip (keys %ack_scan) {
+    while (my ($key, $value) = each %{ $ack_scan{$ip} } ) {
+        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
+    }
+}
+
+
+printf("\n\nTCP/UDP Chargen Hits from IP:Port...(%d hosts)\n", scalar(keys %tcpudp_chargen));
+printf("---------------------------------------\n");
+$jj = 1;
+foreach my $ip (keys %tcpudp_chargen) {
+    while (my ($key, $value) = each %{ $tcpudp_chargen{$ip} } ) {
+        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
+    }
+}
+
 
 # Assign a list of array references to an array.
 my @AoA = (
@@ -82,6 +122,24 @@ my @AoA = (
 );
 
 print $AoA[0][0];   # prints "fred"
+
+#
+#
+#
+sub parse_log_string
+{
+	my $logline = shift;
+	my $hashref = shift;
+
+
+	if( $logline =~ /(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})\, port (\d{1,5})/ ) {
+		my $ipaddr = $1;
+		my $port = $2;
+		$hashref->{$ipaddr}->{$port}++;
+	}
+
+	#printf("\tIP %s, port %d\n", $ipaddr, $port);
+}
 
 #
 # Walk through the hashes
