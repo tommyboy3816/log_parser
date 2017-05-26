@@ -1,0 +1,44 @@
+#!/bin/sh
+
+NAME=click_through_watchdog
+LOGFILE=/tmp/clickthrough.log
+#LOCK_FILE=/var/lock/clickthrough.lock
+LOCK_FILE=/tmp/clickthrough.lock
+CT_FILE=/proc/click_through
+
+echo "Executing $NAME..."
+
+#[ -e $CT_FILE ] || exit 0
+echo "$CT_FILE"
+
+[ -f $LOCK_FILE ] && {
+	PID=/proc/`cat $LOCK_FILE`
+		[ -d $PID ] && exit 0
+}
+echo $PID
+
+CT_CNS_URL="https://cloud.cambiumnetworks.com"
+CT_CNS_URL=$(echo $CT_CNS_URL| cut -d'/' -f3 | cut -d':' -f1)
+CT_CNS_IP_LIST="$(nslookup $CT_CNS_URL | awk '/^Address: / {if (NR!=2) print $2}' | xargs)"
+
+echo "----------------------------------"
+for CT_CNS_IP in $CT_CNS_IP_LIST; do
+	#echo $CT_CNS_URL " -- " $CT_CNS_IP
+	CT_CNS_IP=$(echo "$CT_CNS_IP" | grep -oE '[[:digit:]]{1,3}\.[[:digit:]]{1,3}\.[[:digit:]]{1,3}\.[[:digit:]]{1,3}')
+	#echo $CT_CNS_IP
+	if [ -z $CT_CNS_IP_LIST_NEW ]; then
+		CT_CNS_IP_LIST_NEW="IPADDR_CNS1=$CT_CNS_IP"
+		CT_CNS_IP1=$CT_CNS_IP
+	else
+		CT_CNS_IP_LIST_NEW="$CT_CNS_IP_LIST_NEW; IPADDR_CNS2=$CT_CNS_IP"
+		CT_CNS_IP2=$CT_CNS_IP
+	fi
+done
+
+echo $CT_CNS_IP1
+echo $CT_CNS_IP2
+echo $CT_CNS_IP_LIST_NEW
+
+CT_MAC=$(ifconfig eth0 | grep HWaddr | grep -oE '[0-9|a-f|A-F]{2}:[0-9|a-f|A-F]{2}:[0-9|a-f|A-F]{2}:[0-9|a-f|A-F]{2}:[0-9|a-f|A-F]{2}:[0-9|a-f|A-F]{2}')
+echo $CT_MAC
+
