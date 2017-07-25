@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 184.83.0.198, port 22, Tuesday, June 27, 2017 19:56:44
 [DoS Attack: SYN/ACK Scan] from source: 103.200.209.214, port 22, Tuesday, June 27, 2017 19:56:44
 [DoS Attack: SYN/ACK Scan] from source: 212.111.41.196, port 22, Tuesday, June 27, 2017 19:54:52
@@ -1904,22 +1905,42 @@
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 16:41:21
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 16:36:29
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 16:35:57
+=======
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 09:33:58
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 09:31:21
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 09:29:19
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 09:28:44
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 09:28:43
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 09:20:10
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 09:07:30
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Friday, June 09, 2017 09:06:44
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 09:02:36
+=======
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Friday, June 09, 2017 09:14:06
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 09:07:30
+[DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Friday, June 09, 2017 09:06:44
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 09:02:36
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Friday, June 09, 2017 08:34:06
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 08:18:40
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Friday, June 09, 2017 08:18:30
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 08:15:17
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 08:12:00
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 08:10:54
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 08:08:39
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 08:08:23
+=======
+[DHCP IP: 192.168.1.114] to MAC address 08:00:27:e7:f9:0c, Friday, June 09, 2017 08:11:14
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 08:10:54
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Friday, June 09, 2017 08:09:50
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Friday, June 09, 2017 08:09:49
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 08:08:39
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 08:08:23
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Friday, June 09, 2017 08:07:16
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 08:03:18
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 08:00:58
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 07:58:26
@@ -1935,12 +1956,29 @@
 [DoS Attack: RST Scan] from source: 218.93.250.20, port 49741, Friday, June 09, 2017 07:09:11
 [DoS Attack: SYN/ACK Scan] from source: 42.236.125.44, port 80, Friday, June 09, 2017 07:08:21
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 07:03:33
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 06:52:06
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 06:51:17
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 06:50:16
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 06:25:54
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 06:18:59
 [DoS Attack: ACK Scan] from source: 50.234.5.129, port 443, Friday, June 09, 2017 05:48:17
+=======
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Friday, June 09, 2017 06:52:26
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 06:52:06
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 06:51:17
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 06:50:16
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Friday, June 09, 2017 06:48:50
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Friday, June 09, 2017 06:41:10
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 06:25:54
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 06:18:59
+[DoS Attack: ACK Scan] from source: 50.234.5.129, port 443, Friday, June 09, 2017 05:48:17
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Friday, June 09, 2017 05:47:43
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Friday, June 09, 2017 05:08:55
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Friday, June 09, 2017 05:08:55
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Friday, June 09, 2017 04:48:16
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Friday, June 09, 2017 04:46:47
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 03:58:37
 [DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Friday, June 09, 2017 03:49:49
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Friday, June 09, 2017 03:49:43
@@ -1948,6 +1986,7 @@
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Friday, June 09, 2017 03:49:37
 [DoS Attack: ACK Scan] from source: 157.240.2.7, port 443, Friday, June 09, 2017 03:49:29
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Friday, June 09, 2017 03:49:28
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 02:54:59
 [DoS Attack: RST Scan] from source: 192.36.27.5, port 443, Friday, June 09, 2017 02:07:49
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 01:51:16
@@ -1961,6 +2000,63 @@
 [DoS Attack: SYN/ACK Scan] from source: 47.33.196.213, port 80, Thursday, June 08, 2017 21:33:28
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Thursday, June 08, 2017 21:22:37
 [DoS Attack: SYN/ACK Scan] from source: 47.33.196.213, port 80, Thursday, June 08, 2017 21:10:42
+=======
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Friday, June 09, 2017 03:46:51
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Friday, June 09, 2017 02:54:59
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Friday, June 09, 2017 02:09:08
+[DoS Attack: RST Scan] from source: 192.36.27.5, port 443, Friday, June 09, 2017 02:07:49
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Friday, June 09, 2017 02:00:54
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Friday, June 09, 2017 01:51:16
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Friday, June 09, 2017 01:42:38
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Friday, June 09, 2017 00:22:55
+[DoS Attack: TCP/UDP Chargen] from source: 184.105.139.85, port 21415, Thursday, June 08, 2017 23:48:45
+[DoS Attack: TCP/UDP Chargen] from source: 185.94.111.1, port 34906, Thursday, June 08, 2017 23:09:12
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 23:03:42
+[DHCP IP: 192.168.1.185] to MAC address b8:27:eb:ae:a5:af, Thursday, June 08, 2017 22:55:38
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Thursday, June 08, 2017 22:51:34
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:47:55
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:45:10
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Thursday, June 08, 2017 22:44:04
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 22:41:19
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:41:01
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Thursday, June 08, 2017 22:40:56
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:40:55
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Thursday, June 08, 2017 22:40:50
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Thursday, June 08, 2017 22:40:49
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Thursday, June 08, 2017 22:40:41
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Thursday, June 08, 2017 22:40:04
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 22:35:47
+[DHCP IP: 192.168.1.185] to MAC address b8:27:eb:ae:a5:af, Thursday, June 08, 2017 22:32:39
+[Access Control] Device TVF295781E1164 with MAC address C0:38:96:31:C0:86 is allowed to access the network, Thursday, June 08, 2017 22:27:58
+[DoS Attack: RST Scan] from source: 50.63.243.230, port 80, Thursday, June 08, 2017 22:27:45
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Thursday, June 08, 2017 22:25:27
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Thursday, June 08, 2017 22:25:05
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Thursday, June 08, 2017 22:22:37
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Thursday, June 08, 2017 22:22:25
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Thursday, June 08, 2017 22:22:22
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Thursday, June 08, 2017 22:22:20
+[DHCP IP: 192.168.1.226] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:22:20
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Thursday, June 08, 2017 22:22:17
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Thursday, June 08, 2017 22:21:37
+[admin login] from source 192.168.1.104, Thursday, June 08, 2017 22:17:52
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:16:30
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Thursday, June 08, 2017 22:14:25
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Thursday, June 08, 2017 22:14:24
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:05:47
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 22:01:04
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Thursday, June 08, 2017 21:54:26
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Thursday, June 08, 2017 21:42:55
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Thursday, June 08, 2017 21:42:43
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 21:41:03
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Thursday, June 08, 2017 21:39:47
+[DoS Attack: SYN/ACK Scan] from source: 47.33.196.213, port 80, Thursday, June 08, 2017 21:33:28
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 21:29:35
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Thursday, June 08, 2017 21:22:37
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Thursday, June 08, 2017 21:14:05
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Thursday, June 08, 2017 21:11:34
+[DoS Attack: SYN/ACK Scan] from source: 47.33.196.213, port 80, Thursday, June 08, 2017 21:10:42
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Thursday, June 08, 2017 21:08:33
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Thursday, June 08, 2017 21:01:17
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Thursday, June 08, 2017 21:00:49
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Thursday, June 08, 2017 21:00:22
@@ -1978,6 +2074,7 @@
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Thursday, June 08, 2017 20:55:27
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Thursday, June 08, 2017 20:55:21
 [DoS Attack: SYN/ACK Scan] from source: 47.33.196.213, port 80, Thursday, June 08, 2017 20:49:43
+<<<<<<< HEAD
 [DoS Attack: ACK Scan] from source: 172.56.145.17, port 443, Thursday, June 08, 2017 20:15:44
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Thursday, June 08, 2017 20:15:04
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 20:14:56
@@ -1993,17 +2090,61 @@
 [DoS Attack: SYN/ACK Scan] from source: 46.105.115.121, port 4103, Thursday, June 08, 2017 14:53:57
 [DoS Attack: SYN/ACK Scan] from source: 92.222.194.80, port 80, Thursday, June 08, 2017 12:41:57
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Thursday, June 08, 2017 12:41:37
+=======
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 20:31:50
+[DoS Attack: ACK Scan] from source: 172.56.145.17, port 443, Thursday, June 08, 2017 20:15:44
+[DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Thursday, June 08, 2017 20:15:04
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 20:14:56
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 20:12:46
+[DHCP IP: 192.168.1.114] to MAC address 08:00:27:e7:f9:0c, Thursday, June 08, 2017 20:11:14
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Thursday, June 08, 2017 20:09:17
+[DoS Attack: SYN/ACK Scan] from source: 172.217.6.104, port 443, Thursday, June 08, 2017 19:54:03
+[DoS Attack: SYN/ACK Scan] from source: 216.58.216.110, port 443, Thursday, June 08, 2017 19:53:47
+[DoS Attack: SYN/ACK Scan] from source: 167.114.4.184, port 5000, Thursday, June 08, 2017 19:21:46
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Thursday, June 08, 2017 19:11:57
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Thursday, June 08, 2017 19:11:46
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 18:49:36
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 18:49:35
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Thursday, June 08, 2017 18:22:59
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Thursday, June 08, 2017 18:19:53
+[DoS Attack: SYN/ACK Scan] from source: 149.202.65.212, port 25565, Thursday, June 08, 2017 18:07:15
+[DHCP IP: 192.168.1.115] to MAC address e4:90:7e:14:7c:8f, Thursday, June 08, 2017 18:06:37
+[DoS Attack: ACK Scan] from source: 194.170.74.182, port 80, Thursday, June 08, 2017 17:42:09
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Thursday, June 08, 2017 17:37:42
+[DoS Attack: SYN/ACK Scan] from source: 45.32.151.67, port 80, Thursday, June 08, 2017 17:33:46
+[DoS Attack: SYN/ACK Scan] from source: 79.137.109.34, port 3306, Thursday, June 08, 2017 16:30:35
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Thursday, June 08, 2017 16:04:25
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Thursday, June 08, 2017 15:54:59
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Thursday, June 08, 2017 15:53:39
+[DoS Attack: SYN/ACK Scan] from source: 5.135.141.7, port 80, Thursday, June 08, 2017 15:34:37
+[DoS Attack: SYN/ACK Scan] from source: 46.105.115.121, port 4103, Thursday, June 08, 2017 14:53:57
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Thursday, June 08, 2017 14:48:56
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Thursday, June 08, 2017 14:00:53
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Thursday, June 08, 2017 13:22:00
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Thursday, June 08, 2017 13:20:57
+[DoS Attack: SYN/ACK Scan] from source: 92.222.194.80, port 80, Thursday, June 08, 2017 12:41:57
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Thursday, June 08, 2017 12:41:37
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 12:28:07
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Thursday, June 08, 2017 12:22:53
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Thursday, June 08, 2017 12:22:26
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Thursday, June 08, 2017 12:15:05
 [DoS Attack: ACK Scan] from source: 50.234.5.129, port 443, Thursday, June 08, 2017 12:14:56
 [DoS Attack: SYN/ACK Scan] from source: 192.99.3.77, port 25565, Thursday, June 08, 2017 12:05:39
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 11:43:16
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Thursday, June 08, 2017 11:32:02
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Thursday, June 08, 2017 11:25:08
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Thursday, June 08, 2017 11:25:08
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 157.240.2.52, port 443, Thursday, June 08, 2017 11:24:19
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 11:24:15
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Thursday, June 08, 2017 11:24:14
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Thursday, June 08, 2017 11:24:13
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 11:17:38
 [DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Thursday, June 08, 2017 11:17:33
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 164.132.205.173, port 80, Thursday, June 08, 2017 10:54:44
 [DoS Attack: SYN/ACK Scan] from source: 183.136.132.24, port 80, Thursday, June 08, 2017 10:39:42
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Thursday, June 08, 2017 10:10:58
@@ -2014,25 +2155,104 @@
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Thursday, June 08, 2017 08:49:56
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 07:53:41
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Thursday, June 08, 2017 07:53:40
+=======
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Thursday, June 08, 2017 11:09:46
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Thursday, June 08, 2017 11:02:46
+[DoS Attack: SYN/ACK Scan] from source: 164.132.205.173, port 80, Thursday, June 08, 2017 10:54:44
+[DoS Attack: SYN/ACK Scan] from source: 183.136.132.24, port 80, Thursday, June 08, 2017 10:39:42
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 10:25:24
+[DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Thursday, June 08, 2017 10:10:58
+[DoS Attack: RST Scan] from source: 149.56.196.100, port 50912, Thursday, June 08, 2017 09:48:33
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Thursday, June 08, 2017 09:40:21
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Thursday, June 08, 2017 09:30:19
+[DoS Attack: SYN/ACK Scan] from source: 51.254.176.76, port 21001, Thursday, June 08, 2017 09:21:39
+[DoS Attack: SYN/ACK Scan] from source: 164.132.120.89, port 6004, Thursday, June 08, 2017 09:21:19
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Thursday, June 08, 2017 09:14:03
+[DoS Attack: ACK Scan] from source: 151.101.2.2, port 443, Thursday, June 08, 2017 09:01:30
+[DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Thursday, June 08, 2017 08:49:56
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Thursday, June 08, 2017 08:25:31
+[admin login] from source 192.168.1.104, Thursday, June 08, 2017 08:14:59
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Thursday, June 08, 2017 08:11:18
+[DHCP IP: 192.168.1.114] to MAC address 08:00:27:e7:f9:0c, Thursday, June 08, 2017 08:11:12
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Thursday, June 08, 2017 08:08:00
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Thursday, June 08, 2017 08:06:53
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Thursday, June 08, 2017 08:06:35
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Thursday, June 08, 2017 08:06:14
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Thursday, June 08, 2017 08:00:28
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 07:53:41
+[DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Thursday, June 08, 2017 07:53:40
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Thursday, June 08, 2017 07:50:16
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Thursday, June 08, 2017 07:49:49
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Thursday, June 08, 2017 07:44:30
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Thursday, June 08, 2017 07:11:57
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 06:55:34
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Thursday, June 08, 2017 06:47:29
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Thursday, June 08, 2017 06:46:49
 [DoS Attack: ACK Scan] from source: 67.210.208.170, port 10009, Thursday, June 08, 2017 06:38:43
+<<<<<<< HEAD
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 06:03:22
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Thursday, June 08, 2017 05:46:59
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 05:34:44
+=======
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Thursday, June 08, 2017 06:19:51
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Thursday, June 08, 2017 06:18:20
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 06:16:30
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 06:16:16
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 06:16:04
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Thursday, June 08, 2017 06:03:22
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:47:21
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Thursday, June 08, 2017 05:46:59
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:46:55
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:46:50
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:46:20
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:46:12
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:45:51
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:45:25
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:45:17
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:45:08
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:44:40
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:44:28
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:44:21
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:44:02
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:43:53
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:43:45
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:43:30
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:43:11
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:42:39
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:42:29
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:41:40
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:41:21
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:40:20
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Thursday, June 08, 2017 05:39:57
+[DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 05:34:44
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Thursday, June 08, 2017 05:31:56
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Thursday, June 08, 2017 05:23:51
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 05:01:54
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Thursday, June 08, 2017 04:53:05
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Thursday, June 08, 2017 04:47:14
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 04:28:36
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Thursday, June 08, 2017 04:12:16
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Thursday, June 08, 2017 03:48:33
 [DoS Attack: TCP/UDP Echo] from source: 80.82.77.33, port 27221, Thursday, June 08, 2017 03:46:48
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 03:26:52
 [DoS Attack: TCP/UDP Echo] from source: 141.212.121.192, port 44204, Thursday, June 08, 2017 03:06:20
 [DoS Attack: SYN/ACK Scan] from source: 43.225.180.20, port 1555, Thursday, June 08, 2017 02:37:41
 [DoS Attack: SYN/ACK Scan] from source: 149.56.242.73, port 8080, Thursday, June 08, 2017 02:16:30
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 43.225.180.20, port 1555, Thursday, June 08, 2017 01:37:06
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Thursday, June 08, 2017 01:34:33
+=======
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Thursday, June 08, 2017 02:00:50
+[DoS Attack: SYN/ACK Scan] from source: 43.225.180.20, port 1555, Thursday, June 08, 2017 01:37:06
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Thursday, June 08, 2017 01:34:33
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Thursday, June 08, 2017 01:31:50
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Thursday, June 08, 2017 01:31:50
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 01:29:08
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Thursday, June 08, 2017 01:21:19
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Thursday, June 08, 2017 01:21:18
@@ -2040,28 +2260,57 @@
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 01:04:47
 [DoS Attack: RST Scan] from source: 213.211.159.84, port 50061, Thursday, June 08, 2017 00:54:51
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 00:46:04
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Thursday, June 08, 2017 00:39:47
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Thursday, June 08, 2017 00:39:45
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: TCP/UDP Chargen] from source: 184.105.139.89, port 36099, Thursday, June 08, 2017 00:38:33
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Thursday, June 08, 2017 00:09:46
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 23:40:36
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 23:18:31
 [DoS Attack: SYN/ACK Scan] from source: 61.160.224.207, port 80, Wednesday, June 07, 2017 23:07:47
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 23:07:31
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 23:00:02
 [DoS Attack: SYN/ACK Scan] from source: 85.190.159.134, port 3389, Wednesday, June 07, 2017 22:18:01
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 22:15:50
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 22:14:45
 [DoS Attack: SYN/ACK Scan] from source: 40.68.102.93, port 80, Wednesday, June 07, 2017 22:05:33
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 22:02:05
+=======
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Wednesday, June 07, 2017 23:05:39
+[DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 23:00:02
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Wednesday, June 07, 2017 22:47:49
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Wednesday, June 07, 2017 22:26:46
+[DoS Attack: SYN/ACK Scan] from source: 85.190.159.134, port 3389, Wednesday, June 07, 2017 22:18:01
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 22:15:50
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 22:14:45
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Wednesday, June 07, 2017 22:09:06
+[DoS Attack: SYN/ACK Scan] from source: 40.68.102.93, port 80, Wednesday, June 07, 2017 22:05:33
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 22:02:05
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 22:02:00
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 61.160.224.207, port 80, Wednesday, June 07, 2017 22:01:06
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 21:59:56
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 21:48:43
 [DoS Attack: ACK Scan] from source: 114.34.180.219, port 35848, Wednesday, June 07, 2017 21:39:17
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 21:18:40
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Wednesday, June 07, 2017 21:14:01
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Wednesday, June 07, 2017 21:12:16
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Wednesday, June 07, 2017 21:11:24
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Wednesday, June 07, 2017 21:10:49
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Wednesday, June 07, 2017 21:09:58
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 20:29:31
+=======
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Wednesday, June 07, 2017 20:58:39
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 20:29:31
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Wednesday, June 07, 2017 20:22:08
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 20:20:18
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 20:18:23
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 20:15:55
@@ -2069,8 +2318,16 @@
 [DoS Attack: SYN/ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 20:14:09
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 20:14:09
 [DoS Attack: SYN/ACK Scan] from source: 92.222.194.80, port 80, Wednesday, June 07, 2017 20:14:01
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 19:41:47
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 19:39:31
+=======
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Wednesday, June 07, 2017 20:13:20
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 20:01:29
+[DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 19:41:47
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 19:39:31
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Wednesday, June 07, 2017 19:27:03
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 19:26:19
 [DoS Attack: SYN/ACK Scan] from source: 92.222.194.80, port 80, Wednesday, June 07, 2017 19:09:14
 [DoS Attack: SYN/ACK Scan] from source: 92.222.194.80, port 80, Wednesday, June 07, 2017 19:00:48
@@ -2078,27 +2335,51 @@
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 18:47:43
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 18:47:00
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 18:43:35
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Wednesday, June 07, 2017 18:39:31
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 18:19:30
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 18:17:41
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 18:10:23
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 17:59:55
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 17:59:11
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 17:56:23
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 17:50:22
+=======
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Wednesday, June 07, 2017 17:51:19
+[DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 17:50:22
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Wednesday, June 07, 2017 17:31:54
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 17:15:07
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 17:14:01
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 17:13:40
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 17:13:05
 [DoS Attack: SYN/ACK Scan] from source: 139.99.4.48, port 38970, Wednesday, June 07, 2017 17:08:15
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 16:56:46
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 16:50:30
+=======
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Wednesday, June 07, 2017 17:02:46
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Wednesday, June 07, 2017 17:02:42
+[DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 16:56:46
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 16:50:30
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 16:44:16
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 16:36:44
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 16:36:03
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 16:30:16
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 16:23:58
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 16:21:05
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 16:21:05
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 16:07:03
+=======
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Wednesday, June 07, 2017 16:12:15
+[DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 16:07:03
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Wednesday, June 07, 2017 15:54:25
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 15:51:35
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 15:43:33
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 15:41:47
@@ -2106,13 +2387,29 @@
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 15:41:47
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 15:41:46
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 15:23:34
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 15:09:30
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 217.182.0.243, port 80, Wednesday, June 07, 2017 15:01:56
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 15:01:53
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 14:48:29
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 14:43:04
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 14:24:42
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 14:23:16
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 46.4.4.155, port 80, Wednesday, June 07, 2017 14:19:38
+=======
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 14:22:49
+[DoS Attack: SYN/ACK Scan] from source: 46.4.4.155, port 80, Wednesday, June 07, 2017 14:19:38
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Wednesday, June 07, 2017 14:16:29
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Wednesday, June 07, 2017 14:09:46
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Wednesday, June 07, 2017 14:09:45
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Wednesday, June 07, 2017 14:06:25
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Wednesday, June 07, 2017 14:00:48
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Wednesday, June 07, 2017 14:00:35
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Wednesday, June 07, 2017 14:00:35
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 13:53:43
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 13:38:58
 [DoS Attack: SYN/ACK Scan] from source: 213.133.107.241, port 80, Wednesday, June 07, 2017 13:24:23
@@ -2130,15 +2427,28 @@
 [DoS Attack: SYN/ACK Scan] from source: 46.105.30.7, port 80, Wednesday, June 07, 2017 11:48:28
 [DoS Attack: SYN/ACK Scan] from source: 46.105.30.7, port 80, Wednesday, June 07, 2017 11:43:42
 [DoS Attack: TCP/UDP Chargen] from source: 80.82.77.33, port 63487, Wednesday, June 07, 2017 11:43:40
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Wednesday, June 07, 2017 11:34:00
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 11:31:52
 [DoS Attack: SYN/ACK Scan] from source: 221.228.218.142, port 80, Wednesday, June 07, 2017 11:24:18
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Wednesday, June 07, 2017 11:07:12
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Wednesday, June 07, 2017 10:53:20
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Wednesday, June 07, 2017 10:43:28
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Wednesday, June 07, 2017 10:37:53
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 10:18:07
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 10:11:55
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 10:09:13
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 09:59:20
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 09:57:16
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Wednesday, June 07, 2017 09:50:49
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 09:44:02
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 09:44:00
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 09:43:55
@@ -2149,17 +2459,37 @@
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 09:28:44
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 09:28:36
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 09:26:39
+<<<<<<< HEAD
 [DoS Attack: TCP/UDP Echo] from source: 141.212.121.198, port 59841, Wednesday, June 07, 2017 08:51:03
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:39:51
 [DoS Attack: SYN/ACK Scan] from source: 180.101.217.43, port 80, Wednesday, June 07, 2017 08:38:45
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 08:38:04
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:29:48
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:23:18
+=======
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Wednesday, June 07, 2017 09:13:59
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Wednesday, June 07, 2017 08:58:37
+[DoS Attack: TCP/UDP Echo] from source: 141.212.121.198, port 59841, Wednesday, June 07, 2017 08:51:03
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Wednesday, June 07, 2017 08:50:54
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 08:43:43
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:39:51
+[DoS Attack: SYN/ACK Scan] from source: 180.101.217.43, port 80, Wednesday, June 07, 2017 08:38:45
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 08:38:04
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Wednesday, June 07, 2017 08:35:27
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:29:48
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:23:18
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 08:20:16
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Wednesday, June 07, 2017 08:20:14
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 1.198.4.12, port 80, Wednesday, June 07, 2017 08:19:19
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 08:17:21
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:16:58
 [DoS Attack: SYN/ACK Scan] from source: 106.119.182.12, port 80, Wednesday, June 07, 2017 08:15:30
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 08:15:30
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Wednesday, June 07, 2017 08:15:21
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 1.199.93.43, port 80, Wednesday, June 07, 2017 08:11:03
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Wednesday, June 07, 2017 08:08:21
 [DoS Attack: SYN/ACK Scan] from source: 106.119.182.12, port 80, Wednesday, June 07, 2017 08:01:17
@@ -2168,10 +2498,16 @@
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 07:55:43
 [DoS Attack: ACK Scan] from source: 204.11.56.48, port 80, Wednesday, June 07, 2017 07:54:29
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 07:49:21
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Wednesday, June 07, 2017 07:37:05
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Wednesday, June 07, 2017 07:36:24
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 07:13:04
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Wednesday, June 07, 2017 07:08:19
 [DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Wednesday, June 07, 2017 07:08:15
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 07:01:24
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 188.132.147.241, port 80, Wednesday, June 07, 2017 06:57:02
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 06:56:29
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 06:49:31
@@ -2183,14 +2519,48 @@
 [DoS Attack: SYN/ACK Scan] from source: 122.228.251.28, port 80, Wednesday, June 07, 2017 06:05:04
 [DoS Attack: SYN/ACK Scan] from source: 212.8.244.111, port 80, Wednesday, June 07, 2017 04:43:40
 [DoS Attack: TCP/UDP Chargen] from source: 71.6.216.48, port 19, Wednesday, June 07, 2017 04:36:01
+=======
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Wednesday, June 07, 2017 06:57:04
+[DoS Attack: SYN/ACK Scan] from source: 188.132.147.241, port 80, Wednesday, June 07, 2017 06:57:02
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 06:56:29
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 06:49:31
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Wednesday, June 07, 2017 06:48:19
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 06:42:35
+[DoS Attack: SYN/ACK Scan] from source: 1.180.204.142, port 80, Wednesday, June 07, 2017 06:40:23
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 06:39:49
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Wednesday, June 07, 2017 06:37:00
+[DoS Attack: SYN/ACK Scan] from source: 1.180.204.142, port 80, Wednesday, June 07, 2017 06:33:18
+[DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Wednesday, June 07, 2017 06:29:37
+[DoS Attack: SYN/ACK Scan] from source: 122.228.251.28, port 80, Wednesday, June 07, 2017 06:05:04
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Wednesday, June 07, 2017 05:31:51
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Wednesday, June 07, 2017 05:31:27
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Wednesday, June 07, 2017 05:05:56
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Wednesday, June 07, 2017 05:05:31
+[DoS Attack: SYN/ACK Scan] from source: 212.8.244.111, port 80, Wednesday, June 07, 2017 04:43:40
+[DoS Attack: TCP/UDP Chargen] from source: 71.6.216.48, port 19, Wednesday, June 07, 2017 04:36:01
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Wednesday, June 07, 2017 04:12:13
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Wednesday, June 07, 2017 04:10:45
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 216.69.185.54, port 53, Wednesday, June 07, 2017 03:49:58
 [DoS Attack: SYN/ACK Scan] from source: 208.109.255.54, port 53, Wednesday, June 07, 2017 03:49:58
 [DoS Attack: SYN/ACK Scan] from source: 216.69.185.54, port 53, Wednesday, June 07, 2017 03:49:56
 [DoS Attack: SYN/ACK Scan] from source: 151.80.47.37, port 40140, Wednesday, June 07, 2017 03:47:53
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 85.190.157.70, port 80, Wednesday, June 07, 2017 02:00:58
 [DoS Attack: SYN/ACK Scan] from source: 85.190.157.70, port 80, Wednesday, June 07, 2017 02:00:48
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 01:53:39
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 01:39:31
+=======
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Wednesday, June 07, 2017 03:39:44
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Wednesday, June 07, 2017 03:39:42
+[DoS Attack: SYN/ACK Scan] from source: 85.190.157.70, port 80, Wednesday, June 07, 2017 02:00:58
+[DoS Attack: SYN/ACK Scan] from source: 85.190.157.70, port 80, Wednesday, June 07, 2017 02:00:48
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Wednesday, June 07, 2017 02:00:45
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Wednesday, June 07, 2017 01:56:05
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 01:53:39
+[DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Wednesday, June 07, 2017 01:39:31
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Wednesday, June 07, 2017 01:30:10
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Wednesday, June 07, 2017 00:45:11
 [DoS Attack: SYN/ACK Scan] from source: 107.154.131.138, port 80, Wednesday, June 07, 2017 00:14:43
 [DoS Attack: SYN/ACK Scan] from source: 5.108.157.135, port 80, Wednesday, June 07, 2017 00:09:51
@@ -2201,15 +2571,31 @@
 [DoS Attack: SYN/ACK Scan] from source: 52.175.35.27, port 80, Tuesday, June 06, 2017 23:46:48
 [DoS Attack: SYN/ACK Scan] from source: 13.75.89.38, port 80, Tuesday, June 06, 2017 23:46:47
 [DoS Attack: SYN/ACK Scan] from source: 85.190.157.70, port 80, Tuesday, June 06, 2017 23:43:53
+<<<<<<< HEAD
 [DoS Attack: RST Scan] from source: 45.77.36.220, port 25565, Tuesday, June 06, 2017 23:25:52
 [DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Tuesday, June 06, 2017 23:23:17
 [DoS Attack: ACK Scan] from source: 5.2.145.8, port 21839, Tuesday, June 06, 2017 21:58:44
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 21:26:11
 [DoS Attack: TCP/UDP Chargen] from source: 162.243.49.17, port 48085, Tuesday, June 06, 2017 21:25:25
+=======
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Tuesday, June 06, 2017 23:30:15
+[DoS Attack: RST Scan] from source: 45.77.36.220, port 25565, Tuesday, June 06, 2017 23:25:52
+[DoS Attack: SYN/ACK Scan] from source: 65.52.185.106, port 80, Tuesday, June 06, 2017 23:23:17
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Tuesday, June 06, 2017 23:06:39
+[DoS Attack: ACK Scan] from source: 5.2.145.8, port 21839, Tuesday, June 06, 2017 21:58:44
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Tuesday, June 06, 2017 21:46:56
+[Time synchronized with NTP server] Tuesday, June 06, 2017 21:36:31
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 21:26:11
+[DoS Attack: TCP/UDP Chargen] from source: 162.243.49.17, port 48085, Tuesday, June 06, 2017 21:25:25
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Tuesday, June 06, 2017 21:14:50
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Tuesday, June 06, 2017 21:13:57
+[email sent to: lbernier3816@comcast.net] Tuesday, June 06, 2017 21:10:02
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 21:09:48
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 21:03:15
 [DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Tuesday, June 06, 2017 21:03:00
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 20:40:06
+<<<<<<< HEAD
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 20:19:37
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 20:08:12
 [DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Tuesday, June 06, 2017 20:08:07
@@ -2217,12 +2603,42 @@
 [DoS Attack: RST Scan] from source: 144.217.68.34, port 80, Tuesday, June 06, 2017 17:24:45
 [DoS Attack: RST Scan] from source: 158.69.226.133, port 80, Tuesday, June 06, 2017 17:02:02
 [DoS Attack: SYN/ACK Scan] from source: 213.32.7.218, port 80, Tuesday, June 06, 2017 15:40:07
+=======
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Tuesday, June 06, 2017 20:35:24
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Tuesday, June 06, 2017 20:32:11
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Tuesday, June 06, 2017 20:30:36
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 20:19:37
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Tuesday, June 06, 2017 20:17:20
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 20:08:12
+[DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Tuesday, June 06, 2017 20:08:07
+[DoS Attack: SYN/ACK Scan] from source: 204.11.56.50, port 80, Tuesday, June 06, 2017 19:30:56
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Tuesday, June 06, 2017 19:25:50
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Tuesday, June 06, 2017 19:13:58
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Tuesday, June 06, 2017 19:12:38
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Tuesday, June 06, 2017 19:05:46
+[DoS Attack: RST Scan] from source: 144.217.68.34, port 80, Tuesday, June 06, 2017 17:24:45
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Tuesday, June 06, 2017 17:09:57
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Tuesday, June 06, 2017 17:09:40
+[DoS Attack: RST Scan] from source: 158.69.226.133, port 80, Tuesday, June 06, 2017 17:02:02
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Tuesday, June 06, 2017 16:59:03
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Tuesday, June 06, 2017 16:39:04
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Tuesday, June 06, 2017 16:24:33
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Tuesday, June 06, 2017 15:55:40
+[DoS Attack: SYN/ACK Scan] from source: 213.32.7.218, port 80, Tuesday, June 06, 2017 15:40:07
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Tuesday, June 06, 2017 15:36:11
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 151.101.2.2, port 443, Tuesday, June 06, 2017 15:14:14
 [DoS Attack: ACK Scan] from source: 151.101.2.2, port 443, Tuesday, June 06, 2017 15:12:13
 [DoS Attack: ACK Scan] from source: 151.101.2.2, port 443, Tuesday, June 06, 2017 15:10:12
 [DoS Attack: ACK Scan] from source: 151.101.2.2, port 443, Tuesday, June 06, 2017 15:08:11
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Tuesday, June 06, 2017 14:58:23
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Tuesday, June 06, 2017 14:58:18
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Tuesday, June 06, 2017 14:48:17
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Tuesday, June 06, 2017 14:00:43
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Tuesday, June 06, 2017 13:58:56
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 151.80.113.67, port 6004, Tuesday, June 06, 2017 13:24:54
 [DoS Attack: TCP/UDP Chargen] from source: 185.35.62.76, port 60253, Tuesday, June 06, 2017 13:14:12
 [DoS Attack: SYN/ACK Scan] from source: 91.121.226.120, port 51127, Tuesday, June 06, 2017 13:13:57
@@ -2230,6 +2646,7 @@
 [DoS Attack: ACK Scan] from source: 157.240.2.7, port 443, Tuesday, June 06, 2017 12:33:28
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Tuesday, June 06, 2017 12:03:45
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 12:03:40
+<<<<<<< HEAD
 [DoS Attack: ACK Scan] from source: 185.3.152.142, port 80, Tuesday, June 06, 2017 11:52:13
 [DoS Attack: SYN/ACK Scan] from source: 51.255.207.142, port 5001, Tuesday, June 06, 2017 11:49:34
 [DoS Attack: SYN/ACK Scan] from source: 222.186.129.102, port 21, Tuesday, June 06, 2017 11:33:03
@@ -2241,43 +2658,129 @@
 [DoS Attack: SYN/ACK Scan] from source: 222.186.129.102, port 80, Tuesday, June 06, 2017 09:42:58
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 08:47:00
 [DoS Attack: ACK Scan] from source: 157.240.2.7, port 443, Tuesday, June 06, 2017 08:46:53
+=======
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Tuesday, June 06, 2017 11:58:07
+[DoS Attack: ACK Scan] from source: 185.3.152.142, port 80, Tuesday, June 06, 2017 11:52:13
+[DoS Attack: SYN/ACK Scan] from source: 51.255.207.142, port 5001, Tuesday, June 06, 2017 11:49:34
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Tuesday, June 06, 2017 11:35:25
+[DoS Attack: SYN/ACK Scan] from source: 222.186.129.102, port 21, Tuesday, June 06, 2017 11:33:03
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Tuesday, June 06, 2017 11:30:12
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Tuesday, June 06, 2017 11:29:41
+[DoS Attack: SYN/ACK Scan] from source: 222.186.129.102, port 21, Tuesday, June 06, 2017 11:25:26
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Tuesday, June 06, 2017 11:21:21
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 11:07:49
+[DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Tuesday, June 06, 2017 11:07:29
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Tuesday, June 06, 2017 10:52:53
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Tuesday, June 06, 2017 10:40:46
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Tuesday, June 06, 2017 10:35:35
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Tuesday, June 06, 2017 10:32:24
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Tuesday, June 06, 2017 10:19:46
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Tuesday, June 06, 2017 10:19:29
+[DoS Attack: SYN/ACK Scan] from source: 193.70.101.76, port 9987, Tuesday, June 06, 2017 10:17:11
+[DoS Attack: SYN/ACK Scan] from source: 222.186.129.102, port 80, Tuesday, June 06, 2017 09:42:58
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Tuesday, June 06, 2017 09:34:16
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Tuesday, June 06, 2017 09:13:57
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Tuesday, June 06, 2017 09:09:36
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 08:47:00
+[DoS Attack: ACK Scan] from source: 157.240.2.7, port 443, Tuesday, June 06, 2017 08:46:53
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Tuesday, June 06, 2017 08:38:53
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Tuesday, June 06, 2017 08:33:55
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Tuesday, June 06, 2017 08:30:35
+[DHCP IP: 192.168.1.185] to MAC address b8:27:eb:ae:a5:af, Tuesday, June 06, 2017 08:27:39
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Tuesday, June 06, 2017 08:27:27
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Tuesday, June 06, 2017 08:19:22
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 31.210.64.148, port 443, Tuesday, June 06, 2017 08:11:27
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Tuesday, June 06, 2017 07:47:27
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Tuesday, June 06, 2017 07:43:50
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 07:43:43
+<<<<<<< HEAD
 [DoS Attack: TCP/UDP Echo] from source: 141.212.121.198, port 51899, Tuesday, June 06, 2017 07:23:20
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 07:22:20
 [DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Tuesday, June 06, 2017 07:09:29
 [DoS Attack: ACK Scan] from source: 157.240.2.7, port 443, Tuesday, June 06, 2017 07:09:13
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 07:09:10
+=======
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Tuesday, June 06, 2017 07:43:05
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Tuesday, June 06, 2017 07:35:22
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Tuesday, June 06, 2017 07:34:33
+[DoS Attack: TCP/UDP Echo] from source: 141.212.121.198, port 51899, Tuesday, June 06, 2017 07:23:20
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 07:22:20
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Tuesday, June 06, 2017 07:12:36
+[DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Tuesday, June 06, 2017 07:09:29
+[DoS Attack: ACK Scan] from source: 157.240.2.7, port 443, Tuesday, June 06, 2017 07:09:13
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Tuesday, June 06, 2017 07:09:10
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Tuesday, June 06, 2017 07:06:33
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 205.185.208.154, port 443, Tuesday, June 06, 2017 06:55:29
 [DoS Attack: ACK Scan] from source: 205.185.208.154, port 443, Tuesday, June 06, 2017 06:54:45
 [DoS Attack: ACK Scan] from source: 205.185.208.154, port 443, Tuesday, June 06, 2017 06:54:24
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Tuesday, June 06, 2017 06:52:15
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Tuesday, June 06, 2017 06:43:30
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Tuesday, June 06, 2017 06:43:21
+<<<<<<< HEAD
 [DoS Attack: TCP/UDP Chargen] from source: 71.6.158.166, port 63487, Tuesday, June 06, 2017 05:45:18
 [DoS Attack: TCP/UDP Echo] from source: 188.166.26.84, port 54853, Tuesday, June 06, 2017 04:46:47
 [DoS Attack: RST Scan] from source: 52.77.252.121, port 80, Tuesday, June 06, 2017 03:02:31
+=======
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Tuesday, June 06, 2017 05:47:01
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Tuesday, June 06, 2017 05:45:30
+[DoS Attack: TCP/UDP Chargen] from source: 71.6.158.166, port 63487, Tuesday, June 06, 2017 05:45:18
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Tuesday, June 06, 2017 05:42:36
+[DoS Attack: TCP/UDP Echo] from source: 188.166.26.84, port 54853, Tuesday, June 06, 2017 04:46:47
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Tuesday, June 06, 2017 03:48:51
+[DoS Attack: RST Scan] from source: 52.77.252.121, port 80, Tuesday, June 06, 2017 03:02:31
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Tuesday, June 06, 2017 02:57:00
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Tuesday, June 06, 2017 02:22:41
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Tuesday, June 06, 2017 02:18:36
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Tuesday, June 06, 2017 02:18:34
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Tuesday, June 06, 2017 02:00:41
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 62.77.221.196, port 32774, Tuesday, June 06, 2017 01:21:07
 [DoS Attack: TCP/UDP Chargen] from source: 184.105.139.125, port 25288, Tuesday, June 06, 2017 00:54:53
 [DoS Attack: ACK Scan] from source: 17.249.76.21, port 5223, Tuesday, June 06, 2017 00:32:59
 [DoS Attack: SYN/ACK Scan] from source: 125.88.190.18, port 80, Tuesday, June 06, 2017 00:11:24
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Tuesday, June 06, 2017 00:04:11
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 61.160.224.163, port 80, Monday, June 05, 2017 23:06:46
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 23:01:08
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 22:47:14
 [DoS Attack: TCP/UDP Chargen] from source: 185.94.111.1, port 58048, Monday, June 05, 2017 22:24:20
+<<<<<<< HEAD
+=======
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Monday, June 05, 2017 21:52:50
+[Time synchronized with NTP server] Monday, June 05, 2017 21:36:31
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Monday, June 05, 2017 21:34:13
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 21:31:09
 [DoS Attack: SYN/ACK Scan] from source: 61.160.224.187, port 80, Monday, June 05, 2017 21:31:02
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 21:14:25
 [DoS Attack: ACK Scan] from source: 157.240.2.25, port 443, Monday, June 05, 2017 21:14:00
+<<<<<<< HEAD
 [DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Monday, June 05, 2017 20:59:46
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 19:18:06
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 19:17:33
+=======
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Monday, June 05, 2017 21:13:55
+[DoS Attack: ACK Scan] from source: 34.198.215.236, port 443, Monday, June 05, 2017 20:59:46
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Monday, June 05, 2017 20:31:49
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Monday, June 05, 2017 20:30:34
+[DHCP IP: 192.168.1.185] to MAC address b8:27:eb:ae:a5:af, Monday, June 05, 2017 20:27:37
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Monday, June 05, 2017 20:21:23
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Monday, June 05, 2017 20:16:44
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Monday, June 05, 2017 20:02:54
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Monday, June 05, 2017 19:39:30
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 19:18:06
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 19:17:33
+[DHCP IP: 192.168.1.210] to MAC address ac:5f:3e:f4:26:d8, Monday, June 05, 2017 19:17:07
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: SYN/ACK Scan] from source: 178.32.148.111, port 6005, Monday, June 05, 2017 18:24:10
 [DoS Attack: TCP/UDP Chargen] from source: 185.165.29.48, port 53411, Monday, June 05, 2017 18:18:52
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 17:29:36
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 17:29:22
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 139.99.4.102, port 38970, Monday, June 05, 2017 17:01:34
 [DoS Attack: SYN/ACK Scan] from source: 139.99.4.102, port 38970, Monday, June 05, 2017 16:42:41
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 16:31:48
@@ -2290,10 +2793,44 @@
 [DoS Attack: TCP/UDP Echo] from source: 71.6.146.185, port 27221, Monday, June 05, 2017 13:03:45
 [DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 12:11:56
 [DoS Attack: RST Scan] from source: 107.191.63.8, port 28333, Monday, June 05, 2017 11:54:11
+=======
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Monday, June 05, 2017 17:10:21
+[DoS Attack: SYN/ACK Scan] from source: 139.99.4.102, port 38970, Monday, June 05, 2017 17:01:34
+[DoS Attack: SYN/ACK Scan] from source: 139.99.4.102, port 38970, Monday, June 05, 2017 16:42:41
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 16:31:48
+[DHCP IP: 192.168.1.115] to MAC address e4:90:7e:14:7c:8f, Monday, June 05, 2017 16:21:25
+[DoS Attack: TCP/UDP Chargen] from source: 185.145.128.167, port 59563, Monday, June 05, 2017 16:15:01
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Monday, June 05, 2017 16:12:42
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Monday, June 05, 2017 15:57:37
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Monday, June 05, 2017 15:48:49
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Monday, June 05, 2017 15:48:32
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Monday, June 05, 2017 15:38:34
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 15:32:21
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Monday, June 05, 2017 15:25:47
+[DoS Attack: SYN/ACK Scan] from source: 151.80.113.64, port 6005, Monday, June 05, 2017 15:24:21
+[DHCP IP: 192.168.1.201] to MAC address 68:48:98:be:66:2a, Monday, June 05, 2017 14:47:22
+[DoS Attack: SYN/ACK Scan] from source: 37.187.191.141, port 80, Monday, June 05, 2017 14:24:59
+[DoS Attack: RST Scan] from source: 45.76.139.92, port 28333, Monday, June 05, 2017 14:11:48
+[DHCP IP: 192.168.1.111] to MAC address ec:71:db:2b:15:31, Monday, June 05, 2017 14:00:38
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 13:55:45
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Monday, June 05, 2017 13:24:29
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Monday, June 05, 2017 13:24:19
+[DoS Attack: TCP/UDP Echo] from source: 71.6.146.185, port 27221, Monday, June 05, 2017 13:03:45
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Monday, June 05, 2017 12:59:49
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Monday, June 05, 2017 12:59:48
+[DHCP IP: 192.168.1.205] to MAC address 20:d3:90:ef:cf:5b, Monday, June 05, 2017 12:32:58
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Monday, June 05, 2017 12:18:14
+[DoS Attack: ACK Scan] from source: 50.234.5.128, port 443, Monday, June 05, 2017 12:11:56
+[DoS Attack: RST Scan] from source: 107.191.63.8, port 28333, Monday, June 05, 2017 11:54:11
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Monday, June 05, 2017 11:32:56
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Monday, June 05, 2017 11:18:40
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Monday, June 05, 2017 10:41:38
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: TCP/UDP Chargen] from source: 185.145.131.40, port 48364, Monday, June 05, 2017 10:32:09
 [DoS Attack: RST Scan] from source: 64.124.217.61, port 443, Monday, June 05, 2017 10:18:06
 [DoS Attack: RST Scan] from source: 64.124.217.61, port 443, Monday, June 05, 2017 10:17:41
 [DoS Attack: RST Scan] from source: 79.148.239.91, port 14184, Monday, June 05, 2017 09:55:23
+<<<<<<< HEAD
 [DoS Attack: SYN/ACK Scan] from source: 37.187.191.141, port 80, Monday, June 05, 2017 09:08:03
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 08:37:15
 [DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Monday, June 05, 2017 08:37:10
@@ -2305,6 +2842,37 @@
 [DoS Attack: SYN/ACK Scan] from source: 5.8.88.8, port 443, Monday, June 05, 2017 06:57:25
 [DoS Attack: SYN/ACK Scan] from source: 5.8.88.42, port 53, Monday, June 05, 2017 06:48:44
 [DoS Attack: SYN/ACK Scan] from source: 5.8.88.8, port 443, Monday, June 05, 2017 06:48:13
+=======
+[DHCP IP: 192.168.1.106] to MAC address 00:05:cd:5a:aa:37, Monday, June 05, 2017 09:34:10
+[DHCP IP: 192.168.1.100] to MAC address d4:3d:7e:bf:39:fb, Monday, June 05, 2017 09:13:52
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Monday, June 05, 2017 09:11:40
+[DoS Attack: SYN/ACK Scan] from source: 37.187.191.141, port 80, Monday, June 05, 2017 09:08:03
+[DHCP IP: 192.168.1.112] to MAC address 68:54:fd:a4:4c:e5, Monday, June 05, 2017 09:03:58
+[DHCP IP: 192.168.1.108] to MAC address 60:5b:b4:d9:df:95, Monday, June 05, 2017 08:55:53
+[DHCP IP: 192.168.1.212] to MAC address ac:5f:3e:b7:0a:97, Monday, June 05, 2017 08:54:46
+[DHCP IP: 192.168.1.142] to MAC address 60:67:20:78:83:38, Monday, June 05, 2017 08:50:29
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 08:37:15
+[DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Monday, June 05, 2017 08:37:10
+[DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Monday, June 05, 2017 08:36:11
+[DHCP IP: 192.168.1.185] to MAC address b8:27:eb:ae:a5:af, Monday, June 05, 2017 08:27:36
+[DHCP IP: 192.168.1.182] to MAC address 00:22:2c:80:98:73, Monday, June 05, 2017 08:23:23
+[DoS Attack: ACK Scan] from source: 185.2.4.39, port 80, Monday, June 05, 2017 08:21:05
+[DoS Attack: SYN/ACK Scan] from source: 5.8.88.42, port 53, Monday, June 05, 2017 08:20:12
+[DHCP IP: 192.168.1.180] to MAC address 00:c0:ca:83:19:ab, Monday, June 05, 2017 08:17:14
+[DHCP IP: 192.168.1.104] to MAC address 10:dd:b1:b3:bc:fa, Monday, June 05, 2017 08:14:33
+[DHCP IP: 192.168.1.109] to MAC address 20:7c:8f:e5:49:de, Monday, June 05, 2017 08:12:53
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Monday, June 05, 2017 08:06:31
+[DHCP IP: 192.168.1.101] to MAC address c0:38:96:31:c0:86, Monday, June 05, 2017 08:06:29
+[DoS Attack: ACK Scan] from source: 157.240.2.35, port 443, Monday, June 05, 2017 07:41:57
+[DHCP IP: 192.168.1.105] to MAC address f8:3f:51:33:bf:e2, Monday, June 05, 2017 07:39:26
+[DHCP IP: 192.168.1.110] to MAC address 6c:c2:17:4e:c2:88, Monday, June 05, 2017 07:26:57
+[DoS Attack: SYN/ACK Scan] from source: 5.8.88.8, port 443, Monday, June 05, 2017 07:01:55
+[DoS Attack: SYN/ACK Scan] from source: 5.8.88.8, port 443, Monday, June 05, 2017 06:57:25
+[DHCP IP: 192.168.1.203] to MAC address b4:74:43:43:28:51, Monday, June 05, 2017 06:54:56
+[DoS Attack: SYN/ACK Scan] from source: 5.8.88.42, port 53, Monday, June 05, 2017 06:48:44
+[DoS Attack: SYN/ACK Scan] from source: 5.8.88.8, port 443, Monday, June 05, 2017 06:48:13
+[DHCP IP: 192.168.1.214] to MAC address ac:5f:3e:00:21:6d, Monday, June 05, 2017 06:39:46
+>>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 [DoS Attack: ACK Scan] from source: 157.240.2.36, port 443, Sunday, June 04, 2017 20:08:13
 [DoS Attack: ACK Scan] from source: 157.240.2.20, port 443, Sunday, June 04, 2017 20:08:13
 [DoS Attack: SYN/ACK Scan] from source: 92.222.194.80, port 80, Sunday, June 04, 2017 19:45:58
