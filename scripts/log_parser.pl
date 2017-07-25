@@ -8,6 +8,7 @@ use strict;
 my ($filename, $ii, $jj, $kk, $ll, $hh, $ipaddr, $port);
 my (@tmp, @counts);
 my (%ack_scan, %synack_scan, %tcpudp_chargen, %rst_scan, %arp_attack, %tcpudp_echo, %udp_portscan);
+my (%ascendkill, %icmp_scan);
 
 
 GetOptions('f=s' => \$filename);
@@ -59,6 +60,12 @@ foreach my $line (@tmp)
 		}
 		elsif( $line =~ m/UDP Port Scan/ ) { 
 			parse_log_string( $line, \%udp_portscan );
+		}
+		elsif( $line =~ m/Ascend Kill/ ) {
+			parse_log_string( $line, \%ascendkill );
+		}
+		elsif( $line =~ m/ICMP Scan/ ) {
+			parse_log_string( $line, \%icmp_scan );	
 		}
 		else {
 			printf("LOG ENTRY NOT SUPPORTED\n\t%s\n", $line);
@@ -156,10 +163,23 @@ foreach my $ip (keys %udp_portscan) {
     }
 }
 
+printf("\n\n Ascend Kill Hits from IP:Port...(%d hosts)\n", scalar(keys %ascendkill));
+printf("---------------------------------------\n");
+$jj = 1;
+foreach my $ip (keys %ascendkill) {
+    while (my ($key, $value) = each %{ $ascendkill{$ip} } ) {
+        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
+    }
+}
 
-
-
-
+printf("\n\n ICMP Scan Hits from IP:Port...(%d hosts)\n", scalar(keys %icmp_scan));
+printf("---------------------------------------\n");
+$jj = 1;
+foreach my $ip (keys %icmp_scan) {
+    while (my ($key, $value) = each %{ $icmp_scan{$ip} } ) {
+        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
+    }
+}
 
 # Assign a list of array references to an array.
 #my @AoA = (
