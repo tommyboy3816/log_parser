@@ -8,10 +8,7 @@ use strict;
 my ($filename, $ii, $jj, $kk, $ll, $hh, $ipaddr, $port);
 my (@tmp, @counts);
 my (%ack_scan, %synack_scan, %tcpudp_chargen, %rst_scan, %arp_attack, %tcpudp_echo, %udp_portscan);
-<<<<<<< HEAD
 my (%ascendkill, %icmp_scan);
-=======
->>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 
 
 GetOptions('f=s' => \$filename);
@@ -64,15 +61,12 @@ foreach my $line (@tmp)
 		elsif( $line =~ m/UDP Port Scan/ ) { 
 			parse_log_string( $line, \%udp_portscan );
 		}
-<<<<<<< HEAD
 		elsif( $line =~ m/Ascend Kill/ ) {
 			parse_log_string( $line, \%ascendkill );
 		}
 		elsif( $line =~ m/ICMP Scan/ ) {
 			parse_log_string( $line, \%icmp_scan );	
 		}
-=======
->>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 		else {
 			printf("LOG ENTRY NOT SUPPORTED\n\t%s\n", $line);
 		}
@@ -150,7 +144,6 @@ foreach my $ip (keys %arp_attack) {
         printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
     }
 }
-<<<<<<< HEAD
 
 printf("\n\n TCP/UDP Echo Hits from IP:Port...(%d hosts)\n", scalar(keys %tcpudp_echo));
 printf("---------------------------------------\n");
@@ -187,31 +180,6 @@ foreach my $ip (keys %icmp_scan) {
         printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
     }
 }
-=======
-
-printf("\n\n TCP/UDP Echo Hits from IP:Port...(%d hosts)\n", scalar(keys %tcpudp_echo));
-printf("---------------------------------------\n");
-$jj = 1;
-foreach my $ip (keys %tcpudp_echo) {
-    while (my ($key, $value) = each %{ $tcpudp_echo{$ip} } ) {
-        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
-    }
-}
-
-printf("\n\n UDP Port Scan Hits from IP:Port...(%d hosts)\n", scalar(keys %udp_portscan));
-printf("---------------------------------------\n");
-$jj = 1;
-foreach my $ip (keys %udp_portscan) {
-    while (my ($key, $value) = each %{ $udp_portscan{$ip} } ) {
-        printf("%3d) %s:%d = %d\n", $jj++, $ip, $key, $value);
-    }
-}
-
-
-
-
-
->>>>>>> bea7fb6a85b8d228a5cebebb865ce4f036382237
 
 # Assign a list of array references to an array.
 #my @AoA = (
